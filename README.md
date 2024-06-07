@@ -7,5 +7,5 @@ cypress/e2e: Contains the test files.
 Tests are written using Cypress and Mocha framework.
 
 ====> Test Execution
-Install all the required dependicies like cypress, mocha
-After installing the dependencies just run the command "npx cypress run"
+Install Cypress using the command 'npm install cypress --save-dev'
+After installing Cypress just run the command "npx cypress run"
