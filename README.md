@@ -10,7 +10,7 @@ Clone the Repository:
 Run "git clone" and the link to this repository to clone it to your local machine.
 
 Install Dependencies:
-Navigate to the project directory: cd reqres-testing
+Navigate to the project directory: "cd reqres-testing"
 Run "npm install" to install the dependencies.
 
 Run the Tests:
